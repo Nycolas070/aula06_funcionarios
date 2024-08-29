@@ -1,9 +1,7 @@
-package entidade;
-
-public enum Cargo {
-	
-	DEV,
-	PROFESSOR,
-	CONTA;
-
+package enums;
+import entidade.Funcionario;
+public enum Cargo  {
+	 DEV,
+	 CONTADOR,
+	 PROFESSOR;
 }
